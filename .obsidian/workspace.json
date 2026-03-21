@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "86255b8cf764da46",
+    "type": "split",
+    "children": [
+      {
+        "id": "b361bc1f6a901cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c5dbe96310fe5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tsukihime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tsukihime"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c54a87ea755d9080",
+    "type": "split",
+    "children": [
+      {
+        "id": "671ddd42b2435272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba992eab1263d7f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "256cd78ab3566f37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bfe7e7e1322d564",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40f9b857cf9c3d94",
+    "type": "split",
+    "children": [
+      {
+        "id": "31510c7b42a327bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df22298e1476014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tsukihime.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tsukihime"
+            }
+          },
+          {
+            "id": "1b31ca25f2ebe71a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tsukihime.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tsukihime"
+            }
+          },
+          {
+            "id": "c982d66653184575",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfb4683a967784dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f9ee611bd7b762aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tsukihime.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tsukihime"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b8c5dbe96310fe5b",
+  "lastOpenFiles": [
+    "img/Tsukihime/Tsukihime-1774061014900.png",
+    "img/Tsukihime/Tsukihime-1774060997336.png",
+    "img/Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
+    "img/Tsukihime",
+    "_img_Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
+    "Tsukihime.md",
+    "_img_Tsukihime",
+    "img_Tsukihime_25-00_00_00-0002/Tsukihime-{counter_00X}-2026-03-21.png",
+    "img_Tsukihime_25-00_00_00-0002",
+    "img/Tsukihime-1774060710239.png",
+    "img_Tsukihime_25-00_00_00-0002/Tsukihime-1774060491744.png",
+    "img/Tsukihime-1774060348123.png",
+    "img/Tsukihime-1774060230886.png",
+    "img",
+    "Img/aru_a_27_00_n01.png",
+    "Img/aki_a_00_00_n01.png",
+    "Img"
+  ]
+}
