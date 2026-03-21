@@ -180,17 +180,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b8c5dbe96310fe5b",
   "lastOpenFiles": [
     "img/Tsukihime/Tsukihime-1774061014900.png",
+    "img/Tsukihime/Tsukihime-1774064736186.png",
+    "img/Tsukihime/Tsukihime-1774064565454.png",
     "img/Tsukihime/Tsukihime-1774060997336.png",
-    "img/Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
     "img/Tsukihime",
-    "_img_Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
+    "img",
     "Tsukihime.md",
+    "README.md",
+    "img/Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
+    "_img_Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
     "_img_Tsukihime",
     "img_Tsukihime_25-00_00_00-0002/Tsukihime-{counter_00X}-2026-03-21.png",
     "img_Tsukihime_25-00_00_00-0002",
@@ -198,9 +203,6 @@
     "img_Tsukihime_25-00_00_00-0002/Tsukihime-1774060491744.png",
     "img/Tsukihime-1774060348123.png",
     "img/Tsukihime-1774060230886.png",
-    "img",
-    "Img/aru_a_27_00_n01.png",
-    "Img/aki_a_00_00_n01.png",
     "Img"
   ]
 }
