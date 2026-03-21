@@ -36,10 +36,11 @@ Phần truyện này tập trung vào bí ẩn những vụ giết người liê
 - Yuugo Ando và Karius Berlusconi: 2 cận vệ của Mario
 - Mio Saiki: Một cô gái chạy trốn khỏi nhà. Ít liên quan tới phần truyện này, khả năng sẽ có nhiều thông tin hơn trong ”Red garden”. 
 ![](./img/Tsukihime/Tsukihime-1774072083684.png)
-## Bộ đôi tấu hài
-- Ciel sensei: Ciel trong trang phục cô giáo. Đồng hành cùng người chơi trong chương trình “teach me Ciel-sensei” (dạy em với cô Ciel ơi) để giải đáp thêm các thông tin về những dead end.
-- Neco-Arc: Bạn dẫn của Ciel-sensei. Là nhân vật Mascot của Type-moon, bắt đầu là một phiên bản parody của Arcueid, dần dần sự nổi tiếng Neco-Arc biến nó trở thành một giống loài riêng trong vũ trụ Type-moon. 
-![](./img/Tsukihime/Tsukihime-1774070519465.png)
+## Teach me Ciel-sensei
+Một số lựa chọn trong câu truyện sẽ dẫn tới các dead end khi mà nhân vật chính chết. Lúc này người chơi sẽ được dẫn vào góc "teach me CIel sensei" (dạy em với cô Ciel ơi). Một phân đoạn hài  hước cùng hai nhân vật Neko-Arc và Ciel-sensei. 
+- Neko-Arc: Là nhân vật Mascot của Type-moon, bắt đầu là một phiên bản parody của Arcueid, dần dần sự nổi tiếng Neco-Arc biến nó trở thành một giống loài riêng trong vũ trụ của Type-moon. 
+- Ciel sensei: Ciel trong trang phục cô giáo.
+![Neco-Arc và Ciel-sensei](./img/Tsukihime/Tsukihime-1774070519465.png)
 # Một chút về các bản dịch Tsukihime
 Năm 2008, những hình ảnh đầu tiên về dự án remake Tsukihime được hé lộ, nhưng chỉ đến năm 2021, “Tsukire” mới được ra mắt với khán giả Nhật và phải 3 năm sau phiên bản quốc tế bao gồm Tiếng Anh và Tiếng Trung mới được phát hành. Một điều rất đáng tiếc là “Tsukire” chỉ phát hành trên 2 nền tảng console là Switch và Playstation, mặc dù tất cả các tựa game khác của Type-moon trong quá khứ và về sau đều có phiên bản PC. Điều này là rào cản lớn với những người muốn chơi tựa game một cách chính thức, vì không phải ai cũng có thể sở hữu một hệ máy console và mua game với giá đắt hơn trung bình so với game PC. 
 
