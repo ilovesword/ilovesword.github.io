@@ -180,12 +180,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "f9ee611bd7b762aa",
+  "active": "b8c5dbe96310fe5b",
   "lastOpenFiles": [
+    "img/Tsukihime/Tsukihime-1774072083684.png",
     "img/Tsukihime/Tsukihime-1774071601815.png",
     "img/Tsukihime/Tsukihime-1774071567885.png",
     "img/Tsukihime/Tsukihime-1774070519465.png",
@@ -197,7 +197,6 @@
     "Tsukihime.md",
     "img/Tsukihime/Tsukihime-1774061014900.png",
     "img/Tsukihime/Tsukihime-1774064736186.png",
-    "img/Tsukihime/Tsukihime-1774064565454.png",
     "img/Tsukihime",
     "img",
     "README.md",

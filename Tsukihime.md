@@ -35,7 +35,7 @@ Phần truyện này tập trung vào bí ẩn những vụ giết người liê
 - Mario Gallo Bestino: Được hội công giáo cử để xử lý những vụ việc gần đây
 - Yuugo Ando và Karius Berlusconi: 2 cận vệ của Mario
 - Mio Saiki: Một cô gái chạy trốn khỏi nhà. Ít liên quan tới phần truyện này, khả năng sẽ có nhiều thông tin hơn trong ”Red garden”. 
-![](./img/Tsukihime/Tsukihime-1774071601815.png)
+![](./img/Tsukihime/Tsukihime-1774072083684.png)
 ## Bộ đôi tấu hài
 - Ciel sensei: Ciel trong trang phục cô giáo. Đồng hành cùng người chơi trong chương trình “teach me Ciel-sensei” (dạy em với cô Ciel ơi) để giải đáp thêm các thông tin về những dead end.
 - Neco-Arc: Bạn dẫn của Ciel-sensei. Là nhân vật Mascot của Type-moon, bắt đầu là một phiên bản parody của Arcueid, dần dần sự nổi tiếng Neco-Arc biến nó trở thành một giống loài riêng trong vũ trụ Type-moon. 
