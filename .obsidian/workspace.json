@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tsukihime.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,9 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8c5dbe96310fe5b",
+  "active": "ba992eab1263d7f1",
   "lastOpenFiles": [
     "img/Tsukihime/Tsukihime-1774094759540.png",
+    "Tsukihime.md",
     "img/Tsukihime/Tsukihime-1774094732699.png",
     "img/Tsukihime/Tsukihime-1774093886063.png",
     "img/Tsukihime/Tsukihime-1774093806781.png",
@@ -195,8 +196,6 @@
     "img/Tsukihime/Tsukihime-1774071601815.png",
     "img/Tsukihime/Tsukihime-1774071567885.png",
     "img/Tsukihime/Tsukihime-1774070519465.png",
-    "img/Tsukihime/Tsukihime-1774070469630.png",
-    "Tsukihime.md",
     "img/Tsukihime",
     "img",
     "README.md",
