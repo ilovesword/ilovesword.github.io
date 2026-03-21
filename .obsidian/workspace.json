@@ -11,12 +11,14 @@
             "id": "b8c5dbe96310fe5b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Tsukihime/Tsukihime-1774069777518.png"
+                "file": "Tsukihime.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Tsukihime-1774069777518"
+              "icon": "lucide-file",
+              "title": "Tsukihime"
             }
           }
         ]
@@ -93,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "Tsukihime.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -163,12 +165,12 @@
               "title": "Outline of Tsukihime"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c5dbe96310fe5b",
+  "active": "f9ee611bd7b762aa",
   "lastOpenFiles": [
-    "img/Tsukihime/Tsukihime-1774060997336.png",
+    "img/Tsukihime/Tsukihime-1774071601815.png",
+    "img/Tsukihime/Tsukihime-1774071567885.png",
+    "img/Tsukihime/Tsukihime-1774070519465.png",
+    "img/Tsukihime/Tsukihime-1774070469630.png",
+    "img/Tsukihime/Tsukihime-1774070442195.png",
+    "img/Tsukihime/Tsukihime-1774070416246.png",
     "img/Tsukihime/Tsukihime-1774069777518.png",
+    "img/Tsukihime/Tsukihime-1774060997336.png",
     "Tsukihime.md",
     "img/Tsukihime/Tsukihime-1774061014900.png",
     "img/Tsukihime/Tsukihime-1774064736186.png",
@@ -193,13 +201,8 @@
     "img/Tsukihime",
     "img",
     "README.md",
-    "img/Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
-    "_img_Tsukihime/Tsukihime-{counter_00X}-2026-03-21.png",
     "_img_Tsukihime",
-    "img_Tsukihime_25-00_00_00-0002/Tsukihime-{counter_00X}-2026-03-21.png",
     "img_Tsukihime_25-00_00_00-0002",
-    "img/Tsukihime-1774060710239.png",
-    "img_Tsukihime_25-00_00_00-0002/Tsukihime-1774060491744.png",
     "Img"
   ]
 }
