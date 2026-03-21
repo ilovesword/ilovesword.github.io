@@ -1,6 +1,7 @@
 # Thông tin chung về “Tsukihime - under the blue glass moon” 
 Tsukihime là một visual novel, ra mắt vào năm 2000, và là visual novel đầu tay của Type-moon. Hiện nay,  Type-moon được biết tới nhiều hơn từ series Fate (Fate/stay night, Fate/zero…), nhưng họ bắt đầu nổi lên nhờ Tsukihime. Chính từ sau thành công của Tsukihime tại comiket những năm 2000, Typemoon mới có thể đầu tư thực hiện dự án Fate/stay night. 
-![](./img/Tsukihime/Tsukihime-1774093886063.png)
+
+![406](./img/Tsukihime/Tsukihime-1774093886063.png)
 
 Tsukihime(2000) có 5 nhánh truyện (route), khai thác 5 nhân vật khác nhau. Hai route đầu tiên lần lượt khai thác Arcuied và Ciel. Chúng tập trung vào bí ẩn ma cà rồng trong thành phố và được đặt tên là "near-side" route. Trái ngược với những cuộc chiến siêu nhiên giữa các ma cà rồng, 3 route còn lại hay còn gọi là "far-side" route diễn ra chủ yếu bên trong dinh thự Tohno, mang thiên hướng drama và hé lộ quá khứ u ám của những thành viên trong gia tộc. 
 
