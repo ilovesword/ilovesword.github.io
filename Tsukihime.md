@@ -7,24 +7,7 @@ Tsukihime là một visual novel, ra mắt vào năm 2000, và là visual novel 
 Ở phần remake này, người chơi sẽ phải chơi các nhánh truyện theo trình tự. Tức là phải xong nhánh Arcueid trước rồi mới được chuyển sang nhánh của Ciel. Nhánh của Arcueid có 1 kết chính, trong khi nhánh của Ciel có 1 kết chính (true end) và một kết phụ (normal end). 
 # Bối cảnh câu truyện
 Phần truyện này tập trung vào bí ẩn những vụ giết người liên hoàn và sự xuất hiện của ma cà rồng khắp thành phố Souya (trong nội đô Tokyo). Vậy nên các bối cảnh cũng khá đa dạng, từ dinh thự nhà Tohno, trường học, công viên, các căn hộ cho tới các con hẻm tối. 
-![](./img/Tsukihime/Tsukihime-1774061014900.png)
-1. 遠野邸: Dinh thự Tohno
-2. 遠野邸正門: Cổng chính dinh thự Tohno
-3. 遠野邸付近の国道: Đường lớn gần dinh thự Tohno
-4. 遠野邸への坂: Con dốc dẫn lên dinh thự Tohno
-5. 住宅街の道路: Đường đi trong khu dân cư
-6. 通学路: Đường đến trường
-7. 総耶高校(正門): Cổng chính trường Trung học Souya
-8. デパート: Trung tâm thương mại / Cửa hàng bách hóa
-9. 北口公園 (陥没地跡): Công viên Cửa Bắc (Di tích khu vực hố sụt lún)
-10. 路地裏: Những con hẻm / Ngõ vắng
-11. 総耶駅北口: Cửa Bắc ga Souya
-12. 総耶駅南口: Cửa Nam ga Souya
-13. 高架下: Gầm cầu vượt
-14. アルクのマンション: Căn hộ của Arc (Arcueid)
-15. ハイアットタワー: Tháp Hyatt
-16. 南口公園: Công viên Cửa Nam
-17. シエルのマンション: Căn hộ của Ciel
+![|700x739](./img/Tsukihime/Tsukihime-1774069777518.png)
 ![](./img/Tsukihime/Tsukihime-1774060997336.png)
 # Các nhân vật trong phần remake 
 ## Nhân vật chính
