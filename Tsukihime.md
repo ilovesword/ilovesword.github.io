@@ -1,12 +1,13 @@
 # Thông tin chung về “Tsukihime - under the blue glass moon” 
 ![](./img/Tsukihime/Tsukihime-1774093886063.png)
+
 Tsukihime là một visual novel, ra mắt vào năm 2000, và là visual novel đầu tay của Type-moon. Hiện nay,  Type-moon được biết tới nhiều hơn từ series Fate (Fate/stay night, Fate/zero…), nhưng họ bắt đầu nổi lên nhờ Tsukihime. Chính từ sau thành công của Tsukihime tại comiket những năm 2000, Typemoon mới có thể đầu tư thực hiện dự án Fate/stay night. 
 
 Tsukihime(2000) có 5 nhánh truyện (route), khai thác 5 nhân vật khác nhau. Hai route đầu tiên lần lượt khai thác Arcuied và Ciel. Chúng tập trung vào bí ẩn ma cà rồng trong thành phố và được đặt tên là "near-side" route. Trái ngược với những cuộc chiến siêu nhiên giữa các ma cà rồng, 3 route còn lại hay còn gọi là "far-side" route diễn ra chủ yếu bên trong dinh thự Tohno, mang thiên hướng drama và hé lộ quá khứ u ám của những thành viên trong gia tộc. 
 
 “Tsukihime - under the blue glass moon”  là phiên bản remake của "near-side" route. Không chỉ nâng cấp về hình ảnh, âm thanh, mà phần kịch bản đã có những thay đổi đáng kể với sự xuất hiện của các nhân vật mới và nhiều tình tiết được gọt giũa. 
 ![](./img/Tsukihime/Tsukihime-1774093567684.png)
-"Far-side" route và một nhánh truyện hoàn toàn mới được hứa hẹn sẽ xuất hiện trong phần remake tiếp theo mang tên “Tsukihime -The other side of Red garden”. Tuy nhiên, đến nay vẫn chưa có triển vọng gì về ngày ra mắt của “Red garden”, mặc dù đã 5 năm kể từ ngày Tsukire ra đời. Hình ảnh duy nhất chúng ta có được là một đoạn teaser nho nhỏ ở cuối "blue glass moon"
+"Far-side" route và một nhánh truyện hoàn toàn mới được hứa hẹn sẽ xuất hiện trong phần remake tiếp theo mang tên “Tsukihime - The other side of Red garden”. Tuy nhiên, đến nay vẫn chưa có triển vọng gì về ngày ra mắt của “Red garden”, mặc dù đã 5 năm kể từ ngày Tsukire ra đời. Hình ảnh duy nhất chúng ta có được là một đoạn teaser nho nhỏ ở cuối "blue glass moon"
 ![](./img/Tsukihime/Tsukihime-1774094759540.png)
 # Bối cảnh câu truyện
 Phần truyện này tập trung vào bí ẩn những vụ giết người liên hoàn và sự xuất hiện của ma cà rồng khắp thành phố Souya (trong nội đô Tokyo). Vậy nên các bối cảnh cũng khá đa dạng, từ dinh thự nhà Tohno, trường học, công viên, các căn hộ cho tới các con hẻm tối. 
