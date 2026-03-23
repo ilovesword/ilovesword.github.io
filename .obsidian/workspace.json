@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tsukihime.md",
+                "file": "My shoujo experience as a guy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tsukihime"
+              "title": "My shoujo experience as a guy"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tsukihime.md",
+                "file": "My shoujo experience as a guy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tsukihime"
+              "title": "Outline of My shoujo experience as a guy"
             }
           }
         ],
@@ -185,6 +185,8 @@
   },
   "active": "b8c5dbe96310fe5b",
   "lastOpenFiles": [
+    "Tsukihime.md",
+    "My shoujo experience as a guy.md",
     "img/Tsukihime/Tsukihime-1774060997336.png",
     "img/Tsukihime/Tsukihime-1774069777518.png",
     "img/Tsukihime/Tsukihime-1774070416246.png",
@@ -194,9 +196,7 @@
     "img/Tsukihime/Tsukihime-1774072083684.png",
     "img/Tsukihime/Tsukihime-1774093567684.png",
     "img/Tsukihime/Tsukihime-1774094759540.png",
-    "Tsukihime.md",
     "img/Tsukihime/Tsukihime-1774093886063.png",
-    "img/Tsukihime/Tsukihime-1774094732699.png",
     "img/Tsukihime",
     "img",
     "README.md",
