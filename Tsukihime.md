@@ -27,7 +27,7 @@ Phần truyện này tập trung vào bí ẩn những vụ giết người liê
 - Vlov Arkhangel: Ma cà rồng từ xứ lạnh phương Bắc tình cờ xuất hiện tại thành phố. 
 - Karius Berlusconi: cận vệ của Mario
 - Mario Gallo Bestino: Vẻ ngoài của một thanh niên 13 tuổi, cậu được hội nhà thờ cử để xử lý những vụ việc gần đây
-- Yuugo Ando: cận vệ của Mario, tay trong của hội nhà thờ cơ quan cảnh sát
+- Yuugo Ando: cận vệ của Mario, tay trong của hội nhà thờ trong cơ quan cảnh sát
 - Dr. Arach: Bạn đại học của Makihisa Tohno, người hiện tại là bác sĩ gia đình nhà Tohno và là cố vấn cho Akiha 
 ## Nhân vật khác
 - Aozaki Aoko: Người phụ nữ tóc đỏ bí ẩn luôn mang theo chiếc va li. Cô gặp Shiki 7 năm trước khi câu chuyện trong trò chơi bắt đầu và tặng Shiki một chiếc kính có thể che dấu các “đường chết” mang lại cuộc sống bình thường cho Shiki.  
