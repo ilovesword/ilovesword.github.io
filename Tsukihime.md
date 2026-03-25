@@ -18,20 +18,20 @@ Phần truyện này tập trung vào bí ẩn những vụ giết người liê
 - Hisui: người nhỏ tuổi hơn trong cặp hầu gái song sinh tại dinh thự Tohno. Cô mặc đồng phục hầu gái phương Tây và chịu trách nhiệm chăm sóc Shiki. Hisui hành xử khá lạnh lùng và vô cảm, che dấu cảm xúc thật của mình
 - Tohno Akiha: em gái của Shiki, và hiện là trưởng của gia tộc Tohno. 
 - Kohaku: Chị gái của Hisui. Cô mặc trang phục Kimono và đeo tạp dề chùm lên. Cô có tính cách vui vẻ và luôn tươi cười trái ngược với Hisui. 
-- Noel: Cô giáo mới của Shiki. Luôn cợt nhả và đùa dỡn với Shiki. Làm việc cho hội Công giáo mỗi cuối tuần. 
+- Noel: Cô giáo mới của Shiki. Luôn cợt nhả và đùa dỡn với Shiki. Làm việc cho nhà thờ vào cuối tuần. 
 - Arihiko Inui: Bạn thân lâu năm của Shiki và cũng là bạn của Ciel
 - Mio Saiki: Một cô gái chạy trốn khỏi nhà. Ít liên quan tới phần truyện này, khả năng sẽ có nhiều thông tin hơn trong ”Red garden”. 
 - Michael Roa Valdamjong: Ma cà rồng với khả năng chuyển sinh vô hạn. Sau mỗi lần chết hắn ta chọn một đứa trẻ có trong gia đình có vị thế và năng khiếu phép thuật để chuyển sinh. Đối tượng được chọn có một cuộc sống như người thường và chỉ chuyển hóa thành Michael khi trưởng thành. Điều này khiến cho việc truy lùng hắn ta cực kì khó khăn và khi phát hiện thì có thể đã quá muộn. 
 - Goto Saiki: Một nhân vật bí ấn thi thoảng xuất hiện trong dinh thự. Anh ta quấn băng gạc đen kín người. 
-- loli nơ hồng: Một nhân vật bí ẩn khác đóng vai trò quan trọng trong Ciel route. 
-- Vlov Arkhangel: Một ma cà rồng từ xứ lạnh phương Bắc tình cờ xuất hiện tại thành phố. 
+- Loli váy hồng: Một nhân vật bí ẩn khác đóng vai trò quan trọng trong Ciel route. 
+- Vlov Arkhangel: Ma cà rồng từ xứ lạnh phương Bắc tình cờ xuất hiện tại thành phố. 
 - Karius Berlusconi: cận vệ của Mario
-- Mario Gallo Bestino: Vẻ ngoài của một thanh niên 13 tuổi, cậu được hội công giáo cử để xử lý những vụ việc gần đây
-- Yuugo Ando: cận vệ của Mario, làm việc cho cơ quan cảnh sát
+- Mario Gallo Bestino: Vẻ ngoài của một thanh niên 13 tuổi, cậu được hội nhà thờ cử để xử lý những vụ việc gần đây
+- Yuugo Ando: cận vệ của Mario, tay trong của hội nhà thờ cơ quan cảnh sát
 - Dr. Arach: Bạn đại học của Makihisa Tohno, người hiện tại là bác sĩ gia đình nhà Tohno và là cố vấn cho Akiha 
 ## Nhân vật khác
 - Aozaki Aoko: Người phụ nữ tóc đỏ bí ẩn luôn mang theo chiếc va li. Cô gặp Shiki 7 năm trước khi câu chuyện trong trò chơi bắt đầu và tặng Shiki một chiếc kính có thể che dấu các “đường chết” mang lại cuộc sống bình thường cho Shiki.  
-- Makihisa Tohno: Bố của Akiha và Shiki, là trưởng gia tộc. Ông mất ngay trước khi câu truyện bắt đầu, trao vị trí đó cho Akiha. Không có hình ảnh, nhưng được đề cập tới. Vai trò của ông sẽ được hé lộ rõ hơn ở "red-garden"
+- Makihisa Tohno: Bố của Akiha và Shiki, là trưởng gia tộc. Ông mất ngay trước khi câu truyện bắt đầu, trao vị trí đó cho Akiha. Không có hình ảnh, nhưng được đề cập tới. Vai trò của ông sẽ được hé lộ rõ hơn trong "red-garden"
 
 Một số lựa chọn trong câu truyện sẽ dẫn tới cái chết của nhân vật chính. Lúc này người chơi sẽ được dẫn vào góc "teach me CIel sensei" (dạy em với cô Ciel ơi). Một phân đoạn hài hước cùng hai nhân vật Neko-Arc và Ciel-sensei. 
 ![](./img/Tsukihime/Tsukihime-1774443472447.png)
