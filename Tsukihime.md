@@ -1,14 +1,14 @@
 # Thông tin chung về “Tsukihime - under the blue glass moon” 
-Tsukihime là một visual novel, ra mắt vào năm 2000, và là visual novel đầu tay của Type-moon. Hiện nay,  Type-moon được biết tới nhiều hơn từ series Fate (Fate/stay night, Fate/zero…), nhưng họ bắt đầu nổi lên nhờ Tsukihime. Chính từ sau thành công của Tsukihime tại comiket những năm 2000, Typemoon mới có thể đầu tư thực hiện dự án Fate/stay night. 
+Tsukihime là một visual novel, ra mắt vào năm 2000, và là visual novel đầu tay của Type-moon. Hiện nay,  Type-moon được biết tới nhiều hơn từ series Fate (Fate/stay night, Fate/zero…), nhưng họ bắt đầu nổi lên nhờ Tsukihime. Chính từ sau thành công của Tsukihime tại comiket những năm 2000, Typemoon mới có đủ nguồn lực để đầu tư thực hiện dự án Fate/stay night. 
 
-Tsukihime (2000) có 5 nhánh truyện (route), khai thác 5 nhân vật khác nhau. Hai route đầu tiên khai thác Arcuied và Ciel. Chúng tập trung vào bí ẩn ma cà rồng trong thành phố và được gọi là "near-side" route. Trái ngược với những cuộc chiến siêu nhiên giữa các ma cà rồng, 3 route còn lại hay còn gọi là "far-side" route diễn ra chủ yếu bên trong dinh thự Tohno, mang thiên hướng drama và hé lộ quá khứ u ám của những thành viên trong gia tộc. 
+Tsukihime (2000) có 5 nhánh truyện (route), khai thác 5 nhân vật khác nhau. Hai route đầu tiên khai thác Arcuied và Ciel. Chúng tập trung vào bí ẩn ma cà rồng trong thành phố và được gọi là "near-side" route. Trái ngược với những cuộc chiến siêu nhiên giữa ma cà rồng, 3 route còn lại hay còn gọi là "far-side" route diễn ra chủ yếu bên trong dinh thự Tohno, mang thiên hướng drama và hé lộ quá khứ u ám của các thành viên trong gia tộc. 
 
-“Tsukihime - under the blue glass moon”  là phiên bản remake của "near-side" route. Không chỉ nâng cấp về hình ảnh, âm thanh, mà phần kịch bản đã có những thay đổi đáng kể với sự xuất hiện của các nhân vật mới và nhiều tình tiết được gọt giũa. 
-"Far-side" route và một nhánh truyện hoàn toàn mới được hứa hẹn sẽ xuất hiện trong phần remake tiếp theo mang tên “Tsukihime - The other side of Red garden”. Tuy nhiên, đến nay vẫn chưa có triển vọng gì về ngày ra mắt của “Red garden”. Hình ảnh duy nhất chúng ta có được là một đoạn teaser nho nhỏ ở cuối "blue glass moon"
+“Tsukihime - under the blue glass moon”  là phiên bản remake của "near-side" route. Không chỉ nâng cấp về hình ảnh, âm thanh, mà phần kịch bản đã có những thay đổi đáng kể với sự xuất hiện của các nhân vật mới và rất nhiều tình tiết được gọt giũa. 
+
+Remake của "Far-side" route cùng với một nhánh truyện hoàn toàn mới được hứa hẹn sẽ xuất hiện trong phần tiếp theo mang tên “Tsukihime - The other side of Red garden”. Tuy nhiên cho đến nay chưa có tin tức gì về phần truyện này. Hình ảnh duy nhất chúng ta có được là một đoạn teaser nho nhỏ ở cuối "blue glass moon". 
 # Bối cảnh câu truyện
 Phần truyện này tập trung vào bí ẩn những vụ giết người liên hoàn và sự xuất hiện của ma cà rồng khắp thành phố Souya (trong nội đô Tokyo). Vậy nên các bối cảnh cũng khá đa dạng, từ dinh thự nhà Tohno, trường học, công viên, các căn hộ cho tới các con hẻm tối. 
-![|700x739](./img/Tsukihime/Tsukihime-1774069777518.png)
-![](./img/Tsukihime/Tsukihime-1774060997336.png)
+![](./img/Tsukihime/Tsukihime-1774444349915.png)
 # Các nhân vật trong phần remake (từ trái qua phải)
 ![Ảnh các nhân vật](./img/Tsukihime/Tsukihime-1774442974761.png)
 - Arcueid Brunestud: Công chúa ma cà rồng xinh đẹp, bí ẩn
@@ -32,10 +32,11 @@ Phần truyện này tập trung vào bí ẩn những vụ giết người liê
 ## Nhân vật khác
 - Aozaki Aoko: Người phụ nữ tóc đỏ bí ẩn luôn mang theo chiếc va li. Cô gặp Shiki 7 năm trước khi câu chuyện trong trò chơi bắt đầu và tặng Shiki một chiếc kính có thể che dấu các “đường chết” mang lại cuộc sống bình thường cho Shiki.  
 - Makihisa Tohno: Bố của Akiha và Shiki, là trưởng gia tộc. Ông mất ngay trước khi câu truyện bắt đầu, trao vị trí đó cho Akiha. Không có hình ảnh, nhưng được đề cập tới. Vai trò của ông sẽ được hé lộ rõ hơn ở "red-garden"
+
 Một số lựa chọn trong câu truyện sẽ dẫn tới cái chết của nhân vật chính. Lúc này người chơi sẽ được dẫn vào góc "teach me CIel sensei" (dạy em với cô Ciel ơi). Một phân đoạn hài hước cùng hai nhân vật Neko-Arc và Ciel-sensei. 
 ![](./img/Tsukihime/Tsukihime-1774443472447.png)
-- Neko-Arc: Bắt đầu là một phiên bản parody của Arcueid, dần dần Neko-Arc trở nên nổi tiếng và trở thành mascot của Type-moon
-- Ciel-sensei: Ciel trong trang phục cô giáo.
+- Neko-Arc: Bắt đầu là một phiên bản parody của Arcueid, dần dần trở thành mascot của Type-moon. Danh tiến của Neko-Arc còn vượt ra ngoài, thậm trí những người không biết đến Type-moon hay Tsukihime cũng biết tới Neko-Arc. 
+- Ciel-sensei: Ciel trong trang phục cô giáo. Cô đưa ra những chỉ dẫn hữu ích trong các bad end.
 # Một chút về các bản dịch Tsukihime
 Năm 2008, những hình ảnh đầu tiên về dự án remake Tsukihime được hé lộ, nhưng chỉ đến năm 2021, “Tsukire” mới được ra mắt với khán giả Nhật và phải 3 năm sau phiên bản quốc tế bao gồm Tiếng Anh và Tiếng Trung mới được phát hành. Một điều rất đáng tiếc là “Tsukire” chỉ phát hành trên 2 nền tảng console là Switch và Playstation, mặc dù tất cả các tựa game khác của Type-moon trong quá khứ và về sau đều có phiên bản PC. Điều này là rào cản lớn với những người muốn chơi tựa game một cách chính thức, vì không phải ai cũng có thể sở hữu một hệ máy console và mua game với giá đắt hơn trung bình so với game PC. 
 
