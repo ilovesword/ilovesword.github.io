@@ -2,7 +2,7 @@ name: Deploy Docsify to Pages
 
 on:
   push:
-    branches: ["master"] # Change to "main" if that is your branch name
+    branches: ["main"] # Change to "main" if that is your branch name
 
 permissions:
   contents: read
