@@ -1,11 +1,10 @@
-![](./Mahoyo/Mahoyo.png)
+![](<Mahoyo.png>)
 
 Mahou Tsukai no Yoru (Đêm của pháp sư) hay còn gọi tắt là Mahoyo. Là một câu chuyện đời thường nhưng chứa đầy phép thuật của ba nhân vật chính: 
 - Aoko, một cô gái tập sự với ma thuật, hướng ngoại và tràn đầy năng lượng; 
 - Alice, một phù thủy lạnh lùng, bí ẩn như bước ra từ câu truyện cổ tích; 
 - Soujuurou một chàng trai bình thường đến từ vùng cao và vẫn chưa quen thuộc với cuộc sống thành phố.
 Lấy bối cảnh thành phố Misaki những năm 1980 đầy hoài niệm nhưng cũng nhiều biến động. Câu truyện kể về quá trình ba tính cách khác biệt bắt đầu trưởng thành và chấp nhận lẫn nhau, khi mỗi người phải đối mặt với cuộc sống thường nhật, việc học hành và thi thoảng là những trận chiến ma thuật. Câu chuyện của Mahoutsukai no Yoru không phải là một câu chuyện tình cảm, mà là một câu chuyện đời thường về ba người con người như vậy. 
-
 # Những thuật ngữ trong câu truyện
 Các thuật ngữ như pháp sư, phù thủy, ma thuật sư hay ma pháp và ma thuật. Nghe tưởng chừng có cùng ý nghĩa nhưng chúng có sự khác biệt quan trọng trong thế giới của Type-moon. 
 - **Ma thuật** (Magecraft/Majutsu trong Tiếng Anh/Nhật): khác với ma pháp, ma thuật chỉ có thể tạo ra được những thứ có thể làm được bởi khoa học, công nghệ. Ví dụ như những con rối của touko, hay nhân vật trong truyện cổ tích của Alice. Chúng có thể tốn rất nhiều tài nguyên để tạo ra nhưng nhìn chung những hình nộm hay con rối có thể chiến đấu không nằm ngoài khả năng chế tạo của con người. Tóm lại, mặc dù quá trình tạo ra ma thuật rất kì diệu (vẫy tay, hay lời nguyện) nhưng kết quả là những điều khoa học tái tạo được. 

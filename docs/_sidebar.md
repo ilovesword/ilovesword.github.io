@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Tsukihime](Tsukihime.md)
-* [Mahoyo](Mahoyo.md)
-* [Shojo](Shojo.md)
+* [Visual novel](<Visual novel.md>)
+* [Tsukihime](<Tsukihime.md>)
+* [Mahoyo](<Mahoyo.md>)
+* [Shojo](<Shojo.md>)

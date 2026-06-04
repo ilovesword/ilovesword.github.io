@@ -1,1 +1,9 @@
-{}
+{
+  "attachmentFolderPath": "/",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "newLinkFormat": "relative"
+}

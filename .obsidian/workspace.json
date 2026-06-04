@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_sidebar.md",
+                "file": "docs/Tsukihime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "Tsukihime"
             }
           }
         ]
@@ -185,8 +185,27 @@
   },
   "active": "f7f7fb0405f17919",
   "lastOpenFiles": [
-    "docs/Mahoyo.md",
+    "docs/Shojo.md",
     "docs/README.md",
-    "docs/Tsukihime.md"
+    "docs/_sidebar.md",
+    "docs/Mahoyo.md",
+    "docs/Image/Mahoyo/Mahoyo.png",
+    "docs/Image/Tsukihime/Tsukihime-1774444349915.png",
+    "docs/Image/Tsukihime/Tsukihime-1774446299751.png",
+    "docs/Tsukihime.md",
+    "docs/Visual novel.md",
+    "docs/Image/Tsukihime/Tsukihime-1780562454719.png",
+    "docs/Image/README/README-1780562482772.png",
+    "docs/Image/README",
+    "docs/Image/Mahoyo/Mahoyo-1780562472135.png",
+    "docs/Image/Tsukihime/Tsukihime-1780562342814.png",
+    "docs/Image/Tsukihime/image/Tsukihime-1780562294175.png",
+    "docs/image/Tsukihime/image/Tsukihime-1780562294175.png",
+    "docs/Image/Tsukihime/image",
+    "docs/image/Tsukihime/Tsukihime-1774446299751.png",
+    "docs/image/Tsukihime/image",
+    "docs/image/Tsukihime",
+    "docs/image",
+    "docs/Image"
   ]
 }
