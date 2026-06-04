@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "86255b8cf764da46",
+    "id": "32179f85f0c58b63",
     "type": "split",
     "children": [
       {
-        "id": "b361bc1f6a901cbb",
+        "id": "04b544aafc3e1245",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c5dbe96310fe5b",
+            "id": "f7f7fb0405f17919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My shoujo experience as a guy.md",
+                "file": "docs/_sidebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My shoujo experience as a guy"
-            }
-          },
-          {
-            "id": "397a638ec2209f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My shoujo experience as a guy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My shoujo experience as a guy"
-            }
-          },
-          {
-            "id": "d7eee559d1422a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tsukihime.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tsukihime"
+              "title": "_sidebar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c54a87ea755d9080",
+    "id": "6a8f7ab73e67f5d6",
     "type": "split",
     "children": [
       {
-        "id": "671ddd42b2435272",
+        "id": "5606b7a755902e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "ba992eab1263d7f1",
+            "id": "f66eb852821ee88e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "256cd78ab3566f37",
+            "id": "7ddc25326eda2dda",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "4bfe7e7e1322d564",
+            "id": "47f3016ddd59d81f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,21 +81,21 @@
     "width": 300
   },
   "right": {
-    "id": "40f9b857cf9c3d94",
+    "id": "e3127b977205936c",
     "type": "split",
     "children": [
       {
-        "id": "31510c7b42a327bb",
+        "id": "5bc2f10845f7fccc",
         "type": "tabs",
         "children": [
           {
-            "id": "2df22298e1476014",
+            "id": "d28ee4c7a4e953d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tsukihime.md",
-                "collapseAll": true,
+                "file": "docs/_sidebar.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tsukihime"
+              "title": "Backlinks for _sidebar"
             }
           },
           {
-            "id": "1b31ca25f2ebe71a",
+            "id": "3e4aaa38f8e7f607",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tsukihime.md",
+                "file": "docs/_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tsukihime"
+              "title": "Outgoing links from _sidebar"
             }
           },
           {
-            "id": "c982d66653184575",
+            "id": "42f01687451c78d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +137,7 @@
             }
           },
           {
-            "id": "cfb4683a967784dd",
+            "id": "f90bc12f2010f050",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,26 +151,26 @@
             }
           },
           {
-            "id": "f9ee611bd7b762aa",
+            "id": "1c00256e96d9f9bb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tsukihime.md",
+                "file": "docs/_sidebar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tsukihime"
+              "title": "Outline of _sidebar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,28 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7eee559d1422a7c",
+  "active": "f7f7fb0405f17919",
   "lastOpenFiles": [
-    "My shoujo experience as a guy.md",
-    "Tsukihime.md",
-    "Mahou Tsukai no Yoru.md",
-    "img/Tsukihime/Tsukihime-1774446299751.png",
-    "img/Tsukihime/Tsukihime-1774444349915.png",
-    "img/Tsukihime/Tsukihime-1774443472447.png",
-    "img/Tsukihime/Tsukihime-1774442974761.png",
-    "img/Tsukihime/Tsukihime-1774442478406.png",
-    "img/Mahou Tsukai no Yoru/Mahou Tsukai no Yoru-1774431392661.jpg",
-    "img/Mahou Tsukai no Yoru/IMG0915.jpg",
-    "img/Mahou Tsukai no Yoru/IMG3326.jpg",
-    "img/Mahou Tsukai no Yoru/Mahou Tsukai no Yoru-1774430963881.png",
-    "img/Mahou Tsukai no Yoru/Mahou Tsukai no Yoru-1774430920110.jpg",
-    "img/Mahou Tsukai no Yoru",
-    "img/Mahoyo",
-    "img/Tsukihime",
-    "img",
-    "README.md",
-    "_img_Tsukihime",
-    "img_Tsukihime_25-00_00_00-0002",
-    "Img"
+    "docs/Mahoyo.md",
+    "docs/README.md",
+    "docs/Tsukihime.md"
   ]
 }
