@@ -1,4 +1,4 @@
-![](<Mahoyo.png>)
+![](Image/Mahoyo/Mahoyo.png)
 
 Mahou Tsukai no Yoru (Đêm của pháp sư) hay còn gọi tắt là Mahoyo. Là một câu chuyện đời thường nhưng chứa đầy phép thuật của ba nhân vật chính: 
 - Aoko, một cô gái tập sự với ma thuật, hướng ngoại và tràn đầy năng lượng; 
